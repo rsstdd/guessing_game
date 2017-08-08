@@ -34,3 +34,5 @@ fn main() {
         }
     }
 }
+
+// https://doc.rust-lang.org/1.16.0/book/guessing-game.html
